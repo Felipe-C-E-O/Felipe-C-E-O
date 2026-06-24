@@ -1,7 +1,10 @@
 ## **Olá Sou o Felipe**   
+
+![](https://gifgifs.com/animations/computers-technology/computers-and-parts/happy_1.gif)
 - Eu trabalho como análista de Ti em um laborátorio
 - Estudo programação **.Net**
 - Espero colaborar muito com vocês
+- :heartpulse: Casado Pai de familia
 <!--
 **Felipe-C-E-O/Felipe-C-E-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
