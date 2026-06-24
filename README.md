@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## **Olá Sou o Felipe**   
+- Eu trabalho como análista de Ti em um laborátorio
+- Estudo programação **.Net**
+- Espero colaborar muito com vocês
 <!--
 **Felipe-C-E-O/Felipe-C-E-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
