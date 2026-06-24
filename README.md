@@ -1,4 +1,6 @@
+
 ## **Olá Sou o Felipe**   
+
 
 ![](https://gifgifs.com/animations/computers-technology/computers-and-parts/happy_1.gif)
 - 💬 Eu trabalho como análista de Ti em um laborátorio
@@ -7,25 +9,14 @@
 - :heartpulse: Casado Pai de familia
 
 ### Minhas Tecnologias
-
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="80px" alt="C#">
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80px" alt="Azure SQL">
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="80px" alt=".NET">
-    </td>
-    <td>
+<p align="center">  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="80px" alt="C#">    
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80px" alt="Azure SQL"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="80px" alt=".NET">   
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80px" alt="Git">
-    </td>
-  </tr>
-</table>
+</p>
 
-> ![Felipe Git Hub Status](https://github-readme-stats.vercel.app/api?username=Felipe-C-E-O&show_icons=true&theme=dracula)
+> ![Felipe GitHub Status](https://github-readme-stats.vercel.app/api?username=Felipe-C-E-O&show_icons=true&theme=dracula)
 
 
 
