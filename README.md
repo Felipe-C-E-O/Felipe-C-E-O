@@ -25,6 +25,7 @@
   </tr>
 </table>
 
+> ![Felipe Git Hub Status](https://github-readme-stats.vercel.app/api?username=Felipe-C-E-O&show_icons=true&theme=dracula)
 
 
 
